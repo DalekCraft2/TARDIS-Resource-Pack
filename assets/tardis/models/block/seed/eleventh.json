@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"all": "tardis:block/seed/emerald"
-	}
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "tardis:block/seed/emerald"
+    }
 }

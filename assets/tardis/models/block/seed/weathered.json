@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"all": "tardis:block/seed/weathered"
-	}
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "tardis:block/seed/weathered"
+    }
 }

@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"all": "tardis:block/seed/warped_planks"
-	}
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "tardis:block/seed/warped_planks"
+    }
 }
